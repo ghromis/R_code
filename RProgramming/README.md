@@ -86,17 +86,3 @@ function in R. For example, if `X` is a square invertible matrix, then
 For this assignment, assume that the matrix supplied is always
 invertible.
 
-In order to complete this assignment, you must do the following:
-
-1.  Clone the GitHub repository containing the stub R files at
-    [https://github.com/rdpeng/ProgrammingAssignment2](https://github.com/rdpeng/ProgrammingAssignment2)
-2.  Edit the R file contained in the git repository and place your
-    solution in that file (please do not rename the file).
-3.  Commit your completed R file into YOUR git repository and push your
-    git branch to your GitHub account.
-4.  Submit to Coursera the URL to your GitHub repository that contains
-    the completed R code for the assignment.
-
-### Grading
-
-This assignment will be graded via peer assessment.
